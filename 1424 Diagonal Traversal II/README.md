@@ -1,4 +1,4 @@
-1424 Diagonal Traversal
+#H1 1424 Diagonal Traversal
 
 Consider the following matrix:
 1 2 3 
