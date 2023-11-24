@@ -1,4 +1,4 @@
-# 1424 Diagonal Traversal
+# [1424 Diagonal Traversal](https://leetcode.com/problems/diagonal-traverse-ii/)
 
 Consider the following matrix:
 ```
