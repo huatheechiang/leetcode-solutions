@@ -1,4 +1,4 @@
-# 155 Min Stack
+# [155 Min Stack](https://leetcode.com/problems/min-stack/description/)
 
 The key to this problem is implementing a solution with O(1) time complexity for each function 
 
