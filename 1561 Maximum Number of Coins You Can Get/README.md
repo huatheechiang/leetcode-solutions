@@ -8,3 +8,13 @@ Given the following input array:
 The output should be 9
 
 This question can easily be answered by sorting the input array
+
+Sorted array:
+```
+[1, 2, 2, 4, 7, 8]
+```
+Answer will be the sum of the following:
+
+```
+[1, 2, **2**, 4, **7**, 8]
+```
