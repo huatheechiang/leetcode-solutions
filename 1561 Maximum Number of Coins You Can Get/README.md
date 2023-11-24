@@ -18,3 +18,7 @@ Answer will be the sum of the following:
 ```
 [1, 2, **2**, 4, **7**, 8]
 ```
+
+All you have to do is traverse the array from right to left, adding every _other_ element to a **res** variable len(array) // 3 times.
+
+In this case, len(array) // 3 == 2.
