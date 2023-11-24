@@ -7,6 +7,6 @@ This is the challenging part:
 int getMin() retrieves the minimum element in the stack.
 ```
 
-The solution: initialize a stack with keeps track of the current value and the min value at that point in a tuple 
+The solution: initialize a stack which keeps track of the current value **and** the min value at that point in a tuple 
 
 The int getMin() function will return stack[-1][1]
